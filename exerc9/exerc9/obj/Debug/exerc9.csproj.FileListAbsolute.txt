@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\exerc9\exerc9\bin\Debug\exerc9.exe.config
+C:\Users\ALUNO\source\repos\exerc9\exerc9\bin\Debug\exerc9.exe
+C:\Users\ALUNO\source\repos\exerc9\exerc9\bin\Debug\exerc9.pdb
+C:\Users\ALUNO\source\repos\exerc9\exerc9\obj\Debug\exerc9.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\exerc9\exerc9\obj\Debug\exerc9.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\exerc9\exerc9\obj\Debug\exerc9.exe
+C:\Users\ALUNO\source\repos\exerc9\exerc9\obj\Debug\exerc9.pdb
